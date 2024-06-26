@@ -1,0 +1,12 @@
+
+
+
+# apt packages
+gobuster
+seclists
+sublist3r
+xxd
+golang-go
+golang chromium-driver
+terminator
+jq
