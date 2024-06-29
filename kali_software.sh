@@ -2,7 +2,7 @@
 
 # apt packages
 apt update -y 
-apt install -y gobuster seclists sublist3r xxd golang-go golang chromium-driver terminator jq
+apt install -y gobuster seclists finalrecon sublist3r xxd golang-go golang chromium-driver terminator jq pciutils 
 
 # go packages
 go install github.com/tomnomnom/httprobe@latest
